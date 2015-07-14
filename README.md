@@ -1,7 +1,7 @@
 # voat-api-library-android
 A wrapper for the Voat.co API using Retrofit
 
-<img src="http://i.imgur.com/vLxjqni.png" width="400" title="android wrapper for goat.>
+<img src="http://i.imgur.com/vLxjqni.png" width="400" title="android wrapper for goat.">
 
 ## Introduction
 Use this library to access the Voat.co API in Android. The library comes with Retrofit and OkHttp dependencies.
