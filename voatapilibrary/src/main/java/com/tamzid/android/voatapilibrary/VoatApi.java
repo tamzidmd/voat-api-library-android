@@ -15,6 +15,7 @@ public class VoatApi {
 
     /**
      * Main Voat.co Web API endpoint
+     * TODO: Get official endpoint
      */
     public static final String VOAT_WEB_API_ENDPOINT = "https://fakevout.azurewebsites.net/api";
 
