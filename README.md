@@ -40,15 +40,14 @@ voatService.getSubmission(submissionId, new Callback<SubmissionResponse>() {
     @Override
     public void success(final SubmissionResponse submissionResponse, Response response) {
         Log.d(LOG_TAG, response.getReason());
-
+        
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
                 Toast.makeText(
                     mContext, 
                     submissionResponse.data.title, 
-                    Toast.LENGTH_SHORT)
-                    .show();
+                    Toast.LENGTH_SHORT).show();
             }
         });
 
