@@ -1,6 +1,8 @@
 # voat-api-library-android
 A wrapper for the Voat.co API using Retrofit
 
+<img src="http://i.imgur.com/vLxjqni.png" width="400">
+
 ## Introduction
 Use this library to access the Voat.co API in Android. The library comes with Retrofit and OkHttp dependencies.
 
@@ -102,3 +104,9 @@ data gets returned.
 After the Voat.co API is fully released, I will be using [Semantic Versioning 2.0.0](http://semver.org/) to push updates.
 
 I would be glad to have contributors help with this project.
+
+## Image Credits
+
+The [Android robot](http://developer.android.com/distribute/tools/promote/brand.html) is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License](http://creativecommons.org/licenses/by/3.0/).
+
+The [G Is For Goat](https://openclipart.org/detail/87079/g-is-for-goat) image is reproduced or modified from work created and shared by mazeo and used according to terms described in the [Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)
