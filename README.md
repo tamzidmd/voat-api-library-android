@@ -96,3 +96,7 @@ If you request a new access token every time, you will get IP banned.
 
 I highly recommend checking out the objects in the "models" and "responses" folders to get an idea of what 
 data gets returned.
+
+## Contributing
+
+After the Voat.co API is fully released, I will be using [Semantic Versioning 2.0.0](http://semver.org/) to push updates.
