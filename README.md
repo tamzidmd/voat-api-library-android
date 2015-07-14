@@ -100,3 +100,5 @@ data gets returned.
 ## Contributing
 
 After the Voat.co API is fully released, I will be using [Semantic Versioning 2.0.0](http://semver.org/) to push updates.
+
+I would be glad to have contributors help with this project.
