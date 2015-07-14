@@ -10,10 +10,15 @@ Currently the API is in beta, and certain calls do not work. As of this writing:
 
 ## Installing
 
+Add these lines to your `build.gradle`
+
 ```groovy
 repositories {
-    jcenter()
     maven { url "https://jitpack.io" }
+}
+
+dependencies {
+    compile 'com.github.tamzidmd:voat-api-library-android:-SNAPSHOT'
 }
 ```
 
