@@ -8,6 +8,15 @@ Currently the API is in beta, and certain calls do not work. As of this writing:
 + A user's saved items cannot be accessed
 + Certain query strings do not work
 
+## Installing
+
+```groovy
+repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+}
+```
+
 ## Basic Use
 You will first need to get a public API Key from Voat.co to access its API.
 It should be easy to obtain once the API comes out of beta.
