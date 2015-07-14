@@ -44,7 +44,11 @@ voatService.getSubmission(submissionId, new Callback<SubmissionResponse>() {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
-                Toast.makeText(mContext, submissionResponse.data.title, Toast.LENGTH_SHORT).show();
+                Toast.makeText(
+                    mContext, 
+                    submissionResponse.data.title, 
+                    Toast.LENGTH_SHORT)
+                    .show();
             }
         });
 
